@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869638587440",
+    "project_id": "getacat-dd0df",
+    "storage_bucket": "getacat-dd0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869638587440:android:e43d870a5ae3e9125859f5",
+        "android_client_info": {
+          "package_name": "com.example.getACat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869638587440-38rpo3e2iheesohk3e15f4gkcp3i9fq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6S3EIR77i329HnZD1cugT2dlR1FdbqtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869638587440-38rpo3e2iheesohk3e15f4gkcp3i9fq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
